@@ -1,7 +1,7 @@
 # Madhav E-Commerce Sales Dashboard (Power BI)
 "Interactive Power BI dashboard for e-commerce sales — includes KPIs, state/category breakdowns, profit trends, and payment analysis."
 
-![Dashboard Preview](images/Salesdashboard.png)
+![Dashboard Preview](SalesDashboard.png)
 
 ## 📊 Project Overview
 This project is a **Power BI dashboard** built to analyze e-commerce sales performance.  
