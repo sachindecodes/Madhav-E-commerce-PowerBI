@@ -24,10 +24,10 @@ I followed a tutorial from **Rishabh Mishra (YouTube)** to learn the concepts, b
 - **Sub-Category Profits** → Printers are the most profitable sub-category.  
 
 ## 📂 Files in Repository
-- `Power BI Dashboard.pbix` → Power BI project file  
-- `SalesDashboard.png` → Dashboard preview  
-- `Power BI Dashboard.pdf` → Full-page PDF export  
-- `Details.csv` &  `Orders.csv` → Sample dataset 
+- [Power BI Dashboard.pbix](Power%20BI%20Dashboard.pbix) → Power BI project file  
+- [SalesDashboard.png](SalesDashboard.png) → Dashboard preview  
+- [Power BI Dashboard.pdf](Power%20BI%20Dashboard.pdf) → Full-page PDF export  
+- [Details.csv](Details.csv) & [Orders.csv](Orders.csv) → Sample dataset 
 
 ## 🚀 How to Use
 1. Download the `.pbix` file from this repo.  
